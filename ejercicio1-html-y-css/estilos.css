@@ -1,7 +1,11 @@
 h1 {
-  color: rgb(8, 139, 95);
+  color: #8b0820;
 }
 
 h2 {
   color: blue;
+}
+
+body {
+  background-color: azure;
 }
